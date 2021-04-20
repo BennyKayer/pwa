@@ -19,3 +19,4 @@
 2. You need to install gh-pages with `npm install gh-pages`
 3. Then define a homepage (above deps) for gh-page `"homepage": "https://BennyKayer.github.io/learning",`
 4. Then add 2 scripts `"predeploy": "npm run build",` and `"deploy": "gh-pages -d build",`
+5. In new `NPX` created apps you need to `serviceWorker.register()`
