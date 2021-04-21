@@ -4,7 +4,7 @@
     "icons": [
         {
             "src": "favicon.ico",
-            "sizes": "64x64 32x32 24x24 16x16",
+            "sizes": "16x16",
             "type": "image/x-icon"
         },
         {
@@ -33,9 +33,9 @@
             "type": "image/png"
         },
         {
-            "src": "chrome-512x512.jpg",
+            "src": "chrome-512x512.png",
             "sizes": "512x512",
-            "type": "image/jpeg"
+            "type": "image/png"
         }
     ],
     "start_url": "./index.html",
